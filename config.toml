@@ -1,7 +1,7 @@
 # The URL the site will be built for
 theme = "simple-dev-blog"
 taxonomies = [ { name = "tags" } ]
-base_url = "https://example.com"
+base_url = "https://sarvani1997.github.io/dev-blog/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
