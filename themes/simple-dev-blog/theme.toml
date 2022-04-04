@@ -1,0 +1,34 @@
+name = "simple-dev-blog"
+description = "A simple dev blog theme with no javascript, prerendered linked pages and SEO tags."
+license = "MIT"
+homepage = "https://github.com/bennetthardwick/simple-dev-blog-zola-starter"
+demo = "https://simple-dev-blog-zola-starter.netlify.app/"
+min_version = "0.4.0"
+
+generate_feed = true
+
+[extra]
+
+nav = [
+  { name = "Blog", path = "/blog/" }
+]
+
+blog_path = "blog"
+
+icon = "photo.jpeg"
+profile_small = "photo.jpeg"
+profile_large = "photo.jpeg"
+
+accent = "#05a081"
+accent_light = "#82d0c0"
+
+footer_about = """
+"""
+
+not_found_message = """
+This is not the page you're looking for... return back to [safety?](/)
+"""
+
+[author]
+name = "Bennett Hardwick"
+homepage = "https://bennetthardwick.com/"
