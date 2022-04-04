@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/</loc>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/about/</loc>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/blog/</loc>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/blog/while-i-eat/</loc>
+        <lastmod>2022-03-31</lastmod>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/tags/</loc>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/tags/beginner/</loc>
+    </url>
+    <url>
+        <loc>https://sarvani1997.github.io/dev-blog/tags/react/</loc>
+    </url>
+</urlset>

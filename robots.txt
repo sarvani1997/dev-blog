@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarvani1997.github.io/dev-blog/sitemap.xml
