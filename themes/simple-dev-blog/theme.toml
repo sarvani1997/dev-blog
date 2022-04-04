@@ -10,7 +10,7 @@ generate_feed = true
 [extra]
 
 nav = [
-  { name = "Blog", path = "/blog/" }
+  { name = "Blog", path = "/dev-blog/blog/" }
 ]
 
 blog_path = "blog"
